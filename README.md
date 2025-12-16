@@ -13,4 +13,5 @@ pip install tkcalendar matplotlib
 請直接執行主程式 `main.py`
 
 ### 輸出介面
+<img width="511" height="729" alt="image" src="https://github.com/user-attachments/assets/1c2e7a0d-769c-41ef-aead-55c6e5bfeb76" />
 <img width="1722" height="884" alt="pie_chart" src="https://github.com/user-attachments/assets/bf01f026-017d-4983-9376-4d62c5caadff" />
