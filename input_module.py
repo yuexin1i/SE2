@@ -237,7 +237,7 @@ def run_gui():
     tk.Label(cat_label_frame, text="類別", font=FONT_LABEL, 
             bg=CARD_BG, fg=TEXT_PRIMARY).pack(side="left")
     
-    categories = ["🍔 食物", "🚗 交通", "🎮 娛樂", "🛍️ 購物", 
+    categories = ["🍔 食物", "🚗 交通", "🎮 娛樂", "🛍️購物", 
                   "🏠 居住", "💊 醫療", "📦 其他"]
     category_var = tk.StringVar(value=categories[0])
     
